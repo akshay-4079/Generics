@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsEasy", "GenericsEasy\GenericsEasy.csproj", "{390BB55B-52E9-4D67-A10C-E289627BFEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsMedium", "GenericsMedium\GenericsMedium.csproj", "{74818B5B-A2C1-4A69-BF30-590416EEC39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsHard", "GenericsHard\GenericsHard.csproj", "{EDEFFD21-17A4-471A-AFC3-5DF2B2C609E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390BB55B-52E9-4D67-A10C-E289627BFEE9}.Debug|x86.ActiveCfg = Debug|x86
+		{390BB55B-52E9-4D67-A10C-E289627BFEE9}.Debug|x86.Build.0 = Debug|x86
+		{390BB55B-52E9-4D67-A10C-E289627BFEE9}.Release|x86.ActiveCfg = Release|x86
+		{390BB55B-52E9-4D67-A10C-E289627BFEE9}.Release|x86.Build.0 = Release|x86
+		{74818B5B-A2C1-4A69-BF30-590416EEC39F}.Debug|x86.ActiveCfg = Debug|x86
+		{74818B5B-A2C1-4A69-BF30-590416EEC39F}.Debug|x86.Build.0 = Debug|x86
+		{74818B5B-A2C1-4A69-BF30-590416EEC39F}.Release|x86.ActiveCfg = Release|x86
+		{74818B5B-A2C1-4A69-BF30-590416EEC39F}.Release|x86.Build.0 = Release|x86
+		{EDEFFD21-17A4-471A-AFC3-5DF2B2C609E2}.Debug|x86.ActiveCfg = Debug|x86
+		{EDEFFD21-17A4-471A-AFC3-5DF2B2C609E2}.Debug|x86.Build.0 = Debug|x86
+		{EDEFFD21-17A4-471A-AFC3-5DF2B2C609E2}.Release|x86.ActiveCfg = Release|x86
+		{EDEFFD21-17A4-471A-AFC3-5DF2B2C609E2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
